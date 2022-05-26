@@ -1,0 +1,35 @@
+body { background-color: lightblue;}
+
+#inicio { color: steelblue; 
+          text-align: center; }
+
+
+.quebrar { display: inline-block;
+           margin: 10px;
+           vertical-align: middle; }
+
+.intro { color: black;
+         font-size: 20px;
+         font-family: 'Yanone Kaffeesatz', sans-serif; 
+        text-align: justify }
+
+
+.botao { display: inline-block;
+         padding: 15px 25px;
+         font-size: 24px;
+         cursor: pointer;
+         text-align: center;	
+         text-decoration: none;
+         outline: none;
+         color: #fff;
+         background-color: #41a1be;
+         border: none;
+         border-radius: 15px;
+         box-shadow: 0 9px rgb(121, 118, 118); }
+
+
+#result { color: darkred;
+          size: 40px;}
+
+
+table { font-size: 50px; }
